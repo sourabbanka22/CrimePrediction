@@ -1,0 +1,1 @@
+## This Repository features the Machine Learning files used in creating the Pre-Trained Models for predicting Crime Type and Safety Index Score.
